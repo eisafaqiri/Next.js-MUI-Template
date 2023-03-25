@@ -8,6 +8,7 @@ To get started with this template, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
+git clone https://github.com/eisafaqiri/Next.js-MUI-Template.git
 
 2. Install the dependencies by running the following command:
 
