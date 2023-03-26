@@ -8,17 +8,17 @@ To get started with this template, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-```git clone https://github.com/eisafaqiri/Next.js-MUI-Template.git```
+  ```git clone https://github.com/eisafaqiri/Next.js-MUI-Template.git```
 
 2. Install the dependencies by running the following command:
 
-```npm install```
+  ```npm install```
 
 3. Start the development server by running the following command:
 
-```npm run dev```
+  ```npm run dev```
 
-This will start the development server on ```http://localhost:3000```
+This will start the development server on http://localhost:3000
 
 4. Start building your application by editing the files in the `pages` directory.
 
